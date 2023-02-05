@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\bin\Debug\2월 1주차.exe.config
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\bin\Debug\2월 1주차.exe
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\bin\Debug\2월 1주차.pdb
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\obj\Debug\2월 1주차.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\obj\Debug\2월 1주차.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\obj\Debug\2월 1주차.exe
+C:\Users\admin\Desktop\2월 1주차\2월 1주차\obj\Debug\2월 1주차.pdb
